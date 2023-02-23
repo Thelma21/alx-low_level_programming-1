@@ -16,3 +16,7 @@ int main(void)
     printf("%c: %d\n", c, _isupper(c));
     return (0);
 }
+Prototype: int _isdigit(int c);
+Returns 1 if c is a digit
+Returns 0 otherwise
+}
