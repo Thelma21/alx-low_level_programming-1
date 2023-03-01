@@ -1,5 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
+#ifndef FILE_104-print_buffer.c
+#define FILE_104-print_buffer.c
 
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
